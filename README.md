@@ -1,2 +1,2 @@
 # TextGraphicsEngine
-PONG.PY REQUIRES KEYBOARD MODULE
+pong.py requires keyboard module
